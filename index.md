@@ -17,3 +17,13 @@
 - Seldom used (Use frequency order):
   - User Story 7
   - User Story 6   
+
+## Minimal system span
+The minimal system span would be formed by the User Stories 1, 2 and 3
+
+## Iteration plan
+* Semana 1: Aparecen las ventanas.
+* Semana 2: Crear Clases para los objetos mostrados en pantalla. Al momento en que aparescan en pantalla .
+* Semana 3: Crear clases de las listas para el manejo de los invaders.Al momento en que las interacciones de los nodos funcionen bien.
+* Semana 4:Crear clases row que manejen el funcionamiento de las oleadas de enemigos. Que las oleadas no colapsen.
+* Semana 5: Ser capaces de jugar. Cuando no suceda ningun bug ni run time error
