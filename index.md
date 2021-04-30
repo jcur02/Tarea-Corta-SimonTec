@@ -8,12 +8,12 @@
 7. As a user, I want a start buttom so that I can start the game when I want when I open it or when i lose.
 
 ## Stories according to criticality and use frequency
-- Always used:
-  - User Story 1
+- Always used (Use frequency order):
   - User Story 2
   - User Story 3
+  - User Story 1
   - User Story 4
   - User Story 5
-- Seldom used:
+- Seldom used (Use frequency order):
   - User Story 7
   - User Story 6   
