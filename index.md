@@ -19,11 +19,12 @@
   - User Story 6   
 
 ## Minimal system span
-The minimal system span would be formed by the User Stories 1, 2 and 3
+The minimal system span would be formed by the User Stories 1, 2 and 3.
 
 ## Iteration plan
-* Semana 1: Aparecen las ventanas.
-* Semana 2: Crear Clases para los objetos mostrados en pantalla. Al momento en que aparescan en pantalla .
-* Semana 3: Crear clases de las listas para el manejo de los invaders.Al momento en que las interacciones de los nodos funcionen bien.
-* Semana 4:Crear clases row que manejen el funcionamiento de las oleadas de enemigos. Que las oleadas no colapsen.
-* Semana 5: Ser capaces de jugar. Cuando no suceda ningun bug ni run time error
+* Iteration 1: Create list and node class for simple linked list management.
+* Iteration 2: Create methods needed to make game function.
+* Iteration 3: Create basic graphic interface in the Gameplay window.
+* Iteration 4: Create buttoms and some extra displays.
+
+## Conceptual diagram
