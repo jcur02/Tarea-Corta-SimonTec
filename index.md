@@ -28,3 +28,6 @@ The minimal system span would be formed by the User Stories 1, 2 and 3.
 * Iteration 4: Create buttoms and some extra displays.
 
 ## Conceptual diagram
+![alt text][logo1]
+
+[logo1]: https://github.com/jcur02/Tarea-Corta-SimonTec/raw/main/Conceptual1.png "Logo Title Text 2"
