@@ -31,3 +31,8 @@ The minimal system span would be formed by the User Stories 1, 2 and 3.
 ![alt text][logo1]
 
 [logo1]: https://github.com/jcur02/Tarea-Corta-SimonTec/raw/main/Conceptual1.png "Logo Title Text 2"
+
+## Class diagram
+![alt text][logo2]
+
+[logo2]: https://github.com/jcur02/Tarea-Corta-SimonTec/raw/main/Diagram1.png "Logo Title Text 2"
